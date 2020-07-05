@@ -1,0 +1,14 @@
+{
+  "name": "calculator_express_local",
+  "version": "1.0.0",
+  "description": "Local attempt at simple calculator express  app",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grea P",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
